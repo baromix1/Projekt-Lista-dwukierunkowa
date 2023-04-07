@@ -1,0 +1,4 @@
+﻿  zrodlo.cpp
+  Źródło.cpp
+c1xx : fatal error C1083: Nie można otworzyć pliku źródło: 'Źródło.cpp': No such file or directory
+  Generowanie kodu...
